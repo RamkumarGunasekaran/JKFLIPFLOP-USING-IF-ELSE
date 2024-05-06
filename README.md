@@ -96,7 +96,8 @@ endmodule
 ![325268747-c328495b-981d-4786-b41a-16dd8106dd03](https://github.com/RamkumarGunasekaran/JKFLIPFLOP-USING-IF-ELSE/assets/144870820/e083f394-66a3-4eff-b6e1-9e348cd81a72)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![325268890-7258e14a-027d-45e0-9aca-b03ce83ce1b3](https://github.com/RamkumarGunasekaran/JKFLIPFLOP-USING-IF-ELSE/assets/144870820/990d8c0d-7a6d-428e-8a6d-cf9476070e62)
+![322919445-2029f8f4-bc7e-45c1-a785-adddc7f3673f](https://github.com/RamkumarGunasekaran/JKFLIPFLOP-USING-IF-ELSE/assets/144870820/601b0113-61e6-43d5-8c29-d8f8aaed720f)
+
 
 **RESULTS**
-Thus,the code executed successfully.
+Therefore the code has been successfully executed.
